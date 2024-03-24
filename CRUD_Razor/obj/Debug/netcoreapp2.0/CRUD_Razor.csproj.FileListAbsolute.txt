@@ -1,0 +1,22 @@
+E:\Other\my dotnet projects\CRUD_Razor\CRUD_Razor\bin\Debug\netcoreapp2.0\CRUD_Razor.deps.json
+E:\Other\my dotnet projects\CRUD_Razor\CRUD_Razor\bin\Debug\netcoreapp2.0\CRUD_Razor.runtimeconfig.json
+E:\Other\my dotnet projects\CRUD_Razor\CRUD_Razor\bin\Debug\netcoreapp2.0\CRUD_Razor.runtimeconfig.dev.json
+E:\Other\my dotnet projects\CRUD_Razor\CRUD_Razor\bin\Debug\netcoreapp2.0\CRUD_Razor.dll
+E:\Other\my dotnet projects\CRUD_Razor\CRUD_Razor\bin\Debug\netcoreapp2.0\CRUD_Razor.pdb
+E:\Other\my dotnet projects\CRUD_Razor\CRUD_Razor\obj\Debug\netcoreapp2.0\CRUD_Razor.csprojAssemblyReference.cache
+E:\Other\my dotnet projects\CRUD_Razor\CRUD_Razor\obj\Debug\netcoreapp2.0\CRUD_Razor.csproj.CoreCompileInputs.cache
+E:\Other\my dotnet projects\CRUD_Razor\CRUD_Razor\obj\Debug\netcoreapp2.0\CRUD_Razor.AssemblyInfoInputs.cache
+E:\Other\my dotnet projects\CRUD_Razor\CRUD_Razor\obj\Debug\netcoreapp2.0\CRUD_Razor.AssemblyInfo.cs
+E:\Other\my dotnet projects\CRUD_Razor\CRUD_Razor\obj\Debug\netcoreapp2.0\CRUD_Razor.dll
+E:\Other\my dotnet projects\CRUD_Razor\CRUD_Razor\obj\Debug\netcoreapp2.0\CRUD_Razor.pdb
+E:\Other\MyDotNetProjects\CRUD_Razor\CRUD_Razor\bin\Debug\netcoreapp2.0\CRUD_Razor.deps.json
+E:\Other\MyDotNetProjects\CRUD_Razor\CRUD_Razor\bin\Debug\netcoreapp2.0\CRUD_Razor.runtimeconfig.json
+E:\Other\MyDotNetProjects\CRUD_Razor\CRUD_Razor\bin\Debug\netcoreapp2.0\CRUD_Razor.runtimeconfig.dev.json
+E:\Other\MyDotNetProjects\CRUD_Razor\CRUD_Razor\bin\Debug\netcoreapp2.0\CRUD_Razor.dll
+E:\Other\MyDotNetProjects\CRUD_Razor\CRUD_Razor\bin\Debug\netcoreapp2.0\CRUD_Razor.pdb
+E:\Other\MyDotNetProjects\CRUD_Razor\CRUD_Razor\obj\Debug\netcoreapp2.0\CRUD_Razor.csprojAssemblyReference.cache
+E:\Other\MyDotNetProjects\CRUD_Razor\CRUD_Razor\obj\Debug\netcoreapp2.0\CRUD_Razor.csproj.CoreCompileInputs.cache
+E:\Other\MyDotNetProjects\CRUD_Razor\CRUD_Razor\obj\Debug\netcoreapp2.0\CRUD_Razor.AssemblyInfoInputs.cache
+E:\Other\MyDotNetProjects\CRUD_Razor\CRUD_Razor\obj\Debug\netcoreapp2.0\CRUD_Razor.AssemblyInfo.cs
+E:\Other\MyDotNetProjects\CRUD_Razor\CRUD_Razor\obj\Debug\netcoreapp2.0\CRUD_Razor.dll
+E:\Other\MyDotNetProjects\CRUD_Razor\CRUD_Razor\obj\Debug\netcoreapp2.0\CRUD_Razor.pdb
